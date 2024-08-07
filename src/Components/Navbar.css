@@ -1,0 +1,14 @@
+.navbarContainer {
+    border: 1px solid black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wishListImage {
+    cursor: pointer;
+}
+.wishListImage{
+    margin-right: 10px;
+}
